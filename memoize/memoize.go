@@ -15,7 +15,7 @@ import (
 	"text/template"
 
 	"github.com/Mzack9999/gcache"
-	"github.com/cespare/xxhash"
+	"github.com/cespare/xxhash/v2"
 	singleflight "github.com/projectdiscovery/utils/memoize/simpleflight"
 	stringsutil "github.com/projectdiscovery/utils/strings"
 	"golang.org/x/tools/imports"

@@ -5,7 +5,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/projectdiscovery/utils/sync/semaphore"
+	"github.com/michael2to3/utils/sync/semaphore"
 )
 
 type PoolOption[T any] func(*SizedPool[T]) error

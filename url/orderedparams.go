@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"strings"
 
-	mapsutil "github.com/projectdiscovery/utils/maps"
+	mapsutil "github.com/michael2to3/utils/maps"
 )
 
 // Only difference between OrderedParams and Params is that

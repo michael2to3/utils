@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 
 	"github.com/projectdiscovery/retryablehttp-go"
-	"github.com/projectdiscovery/utils/env"
-	fileutil "github.com/projectdiscovery/utils/file"
-	folderutil "github.com/projectdiscovery/utils/folder"
-	urlutil "github.com/projectdiscovery/utils/url"
+	"github.com/michael2to3/utils/env"
+	fileutil "github.com/michael2to3/utils/file"
+	folderutil "github.com/michael2to3/utils/folder"
+	urlutil "github.com/michael2to3/utils/url"
 	"gopkg.in/yaml.v3"
 )
 

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/projectdiscovery/utils/conversion"
-	sliceutil "github.com/projectdiscovery/utils/slice"
+	"github.com/michael2to3/utils/conversion"
+	sliceutil "github.com/michael2to3/utils/slice"
 	"github.com/tidwall/gjson"
 	"golang.org/x/exp/maps"
 )

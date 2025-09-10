@@ -1,14 +1,14 @@
 // Package errorutil provides error handling utilities.
 //
 // Deprecated: This package is deprecated and will be removed in a future version.
-// Use github.com/projectdiscovery/utils/errkit instead, which provides better
+// Use github.com/michael2to3/utils/errkit instead, which provides better
 // error handling with proper Go error chain support and optional stack traces.
 package errorutil
 
 import (
 	"errors"
 
-	"github.com/projectdiscovery/utils/errkit"
+	"github.com/michael2to3/utils/errkit"
 )
 
 // ErrCallback function to handle given error

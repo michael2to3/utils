@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/projectdiscovery/utils/reader"
-	stringsutil "github.com/projectdiscovery/utils/strings"
+	"github.com/michael2to3/utils/reader"
+	stringsutil "github.com/michael2to3/utils/strings"
 )
 
 func main() {

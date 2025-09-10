@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/projectdiscovery/utils/reader/rawmode"
+	"github.com/michael2to3/utils/reader/rawmode"
 )
 
 type KeyPressReader struct {

@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strings"
 
-	osutils "github.com/projectdiscovery/utils/os"
+	osutils "github.com/michael2to3/utils/os"
 )
 
 // URL a wrapper around net/url.URL

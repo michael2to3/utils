@@ -5,7 +5,7 @@ import (
 	"regexp"
 
 	"github.com/dlclark/regexp2"
-	stringsutil "github.com/projectdiscovery/utils/strings"
+	stringsutil "github.com/michael2to3/utils/strings"
 	"github.com/wasilibs/go-re2"
 )
 

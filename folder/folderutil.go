@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	fileutil "github.com/projectdiscovery/utils/file"
-	mapsutil "github.com/projectdiscovery/utils/maps"
+	fileutil "github.com/michael2to3/utils/file"
+	mapsutil "github.com/michael2to3/utils/maps"
 )
 
 var (

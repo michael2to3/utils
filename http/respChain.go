@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/projectdiscovery/utils/sync/sizedpool"
+	"github.com/michael2to3/utils/sync/sizedpool"
 )
 
 var (

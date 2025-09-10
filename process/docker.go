@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	fileutil "github.com/projectdiscovery/utils/file"
+	fileutil "github.com/michael2to3/utils/file"
 )
 
 // RunningInContainer checks if the process is running in a docker container

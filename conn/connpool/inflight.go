@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net"
 
-	mapsutil "github.com/projectdiscovery/utils/maps"
+	mapsutil "github.com/michael2to3/utils/maps"
 	"go.uber.org/multierr"
 )
 

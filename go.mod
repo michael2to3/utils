@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/utils
+module github.com/michael2to3/utils
 
 go 1.24.0
 

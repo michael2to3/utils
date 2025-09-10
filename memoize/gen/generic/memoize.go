@@ -11,8 +11,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/projectdiscovery/utils/memoize"
-	stringsutil "github.com/projectdiscovery/utils/strings"
+	"github.com/michael2to3/utils/memoize"
+	stringsutil "github.com/michael2to3/utils/strings"
 )
 
 var (

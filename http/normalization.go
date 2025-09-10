@@ -15,7 +15,7 @@ import (
 	"golang.org/x/text/encoding/simplifiedchinese"
 	"golang.org/x/text/transform"
 
-	stringsutil "github.com/projectdiscovery/utils/strings"
+	stringsutil "github.com/michael2to3/utils/strings"
 )
 
 // readNNormalizeRespBody performs normalization on the http response object.

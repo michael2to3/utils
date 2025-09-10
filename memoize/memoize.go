@@ -16,8 +16,8 @@ import (
 
 	"github.com/Mzack9999/gcache"
 	"github.com/cespare/xxhash/v2"
-	singleflight "github.com/projectdiscovery/utils/memoize/simpleflight"
-	stringsutil "github.com/projectdiscovery/utils/strings"
+	singleflight "github.com/michael2to3/utils/memoize/simpleflight"
+	stringsutil "github.com/michael2to3/utils/strings"
 	"golang.org/x/tools/imports"
 )
 

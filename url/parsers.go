@@ -4,8 +4,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/projectdiscovery/utils/errkit"
-	stringsutil "github.com/projectdiscovery/utils/strings"
+	"github.com/michael2to3/utils/errkit"
+	stringsutil "github.com/michael2to3/utils/strings"
 )
 
 // ## URL Parsing Methods

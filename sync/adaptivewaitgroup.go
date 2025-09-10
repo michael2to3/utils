@@ -8,7 +8,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/projectdiscovery/utils/sync/semaphore"
+	"github.com/michael2to3/utils/sync/semaphore"
 )
 
 type AdaptiveGroupOption func(*AdaptiveWaitGroup) error

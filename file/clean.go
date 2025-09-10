@@ -4,7 +4,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/projectdiscovery/utils/errkit"
+	"github.com/michael2to3/utils/errkit"
 )
 
 var (

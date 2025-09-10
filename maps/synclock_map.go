@@ -4,7 +4,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/projectdiscovery/utils/errkit"
+	"github.com/michael2to3/utils/errkit"
 )
 
 var (

@@ -9,7 +9,7 @@ import (
 
 	"github.com/felixge/fgprof"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/utils/env"
+	"github.com/michael2to3/utils/env"
 )
 
 const (

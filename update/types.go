@@ -10,9 +10,9 @@ import (
 	"github.com/google/uuid"
 	"github.com/logrusorgru/aurora"
 
-	fileutil "github.com/projectdiscovery/utils/file"
-	folderutil "github.com/projectdiscovery/utils/folder"
-	"github.com/projectdiscovery/utils/process"
+	fileutil "github.com/michael2to3/utils/file"
+	folderutil "github.com/michael2to3/utils/folder"
+	"github.com/michael2to3/utils/process"
 )
 
 type AssetFormat uint

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/projectdiscovery/utils/errkit"
+	"github.com/michael2to3/utils/errkit"
 	"github.com/remeh/sizedwaitgroup"
 )
 

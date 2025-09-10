@@ -7,7 +7,7 @@ import (
 	"os"
 	"runtime"
 
-	raceutil "github.com/projectdiscovery/utils/race"
+	raceutil "github.com/michael2to3/utils/race"
 
 	"golang.org/x/sys/unix"
 )

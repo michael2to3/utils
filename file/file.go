@@ -20,9 +20,9 @@ import (
 	"github.com/asaskevich/govalidator"
 	"github.com/mattn/go-isatty"
 	"github.com/pkg/errors"
-	osutils "github.com/projectdiscovery/utils/os"
-	sliceutil "github.com/projectdiscovery/utils/slice"
-	stringsutil "github.com/projectdiscovery/utils/strings"
+	osutils "github.com/michael2to3/utils/os"
+	sliceutil "github.com/michael2to3/utils/slice"
+	stringsutil "github.com/michael2to3/utils/strings"
 	"gopkg.in/yaml.v3"
 )
 

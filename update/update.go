@@ -18,7 +18,7 @@ import (
 	"github.com/minio/selfupdate"
 	"github.com/projectdiscovery/gologger"
 	"github.com/projectdiscovery/machineid"
-	"github.com/projectdiscovery/utils/errkit"
+	"github.com/michael2to3/utils/errkit"
 )
 
 const (

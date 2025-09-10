@@ -4,7 +4,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	reflectutil "github.com/projectdiscovery/utils/reflect"
+	reflectutil "github.com/michael2to3/utils/reflect"
 )
 
 // FlushCallback is the callback function that will be called when the batcher is full or the flush interval is reached

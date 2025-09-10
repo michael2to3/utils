@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/utils/env"
+	"github.com/michael2to3/utils/env"
 	"golang.org/x/term"
 )
 

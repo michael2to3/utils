@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/projectdiscovery/utils/errkit"
+	"github.com/michael2to3/utils/errkit"
 	"golang.org/x/text/encoding/unicode"
 )
 

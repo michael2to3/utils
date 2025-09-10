@@ -3,8 +3,8 @@ package healthcheck
 import (
 	"path/filepath"
 
-	fileutil "github.com/projectdiscovery/utils/file"
-	folderutil "github.com/projectdiscovery/utils/folder"
+	fileutil "github.com/michael2to3/utils/file"
+	folderutil "github.com/michael2to3/utils/folder"
 )
 
 var (

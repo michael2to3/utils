@@ -12,11 +12,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/projectdiscovery/utils/env"
+	"github.com/michael2to3/utils/env"
 )
 
 const (
-	// DelimArrow is delim used by projectdiscovery/utils to join errors
+	// DelimArrow is delim used by michael2to3/utils to join errors
 	DelimArrow = "<-"
 	// DelimArrowSerialized
 	DelimArrowSerialized = "\u003c-"

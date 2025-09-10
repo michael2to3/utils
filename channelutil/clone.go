@@ -5,7 +5,7 @@ import (
 	"log"
 	"sync"
 
-	"github.com/projectdiscovery/utils/errkit"
+	"github.com/michael2to3/utils/errkit"
 )
 
 // CloneOptions provides options for Cloning channels

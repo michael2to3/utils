@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	fileutil "github.com/projectdiscovery/utils/file"
-	osutils "github.com/projectdiscovery/utils/os"
+	fileutil "github.com/michael2to3/utils/file"
+	osutils "github.com/michael2to3/utils/os"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

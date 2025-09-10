@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/projectdiscovery/utils/memoize"
+	"github.com/michael2to3/utils/memoize"
 )
 
 func main() {

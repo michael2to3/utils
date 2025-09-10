@@ -1,7 +1,7 @@
 // Package errorutil provides error handling utilities.
 //
 // Deprecated: This package is deprecated and will be removed in a future version.
-// Use github.com/projectdiscovery/utils/errkit instead.
+// Use github.com/michael2to3/utils/errkit instead.
 package errorutil
 
 import (

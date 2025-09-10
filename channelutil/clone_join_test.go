@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/projectdiscovery/utils/channelutil"
+	"github.com/michael2to3/utils/channelutil"
 )
 
 var debug bool = false

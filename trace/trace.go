@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/projectdiscovery/utils/generic"
+	"github.com/michael2to3/utils/generic"
 )
 
 const (

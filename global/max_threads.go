@@ -4,7 +4,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/projectdiscovery/utils/sysutil"
+	"github.com/michael2to3/utils/sysutil"
 )
 
 const OS_MAX_THREADS_ENV = "OS_MAX_THREADS"

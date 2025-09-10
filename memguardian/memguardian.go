@@ -7,7 +7,7 @@ import (
 	"time"
 
 	units "github.com/docker/go-units"
-	"github.com/projectdiscovery/utils/env"
+	"github.com/michael2to3/utils/env"
 )
 
 var (

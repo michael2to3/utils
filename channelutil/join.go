@@ -5,7 +5,7 @@ import (
 	"log"
 	"sync"
 
-	"github.com/projectdiscovery/utils/errkit"
+	"github.com/michael2to3/utils/errkit"
 )
 
 // JoinChannels provides method to Join channels

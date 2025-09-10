@@ -3,7 +3,7 @@ package errorutil_test
 import (
 	"testing"
 
-	errors "github.com/projectdiscovery/utils/errors"
+	errors "github.com/michael2to3/utils/errors"
 	"github.com/stretchr/testify/require"
 )
 

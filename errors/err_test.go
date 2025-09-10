@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	errorutil "github.com/projectdiscovery/utils/errors"
+	errorutil "github.com/michael2to3/utils/errors"
 )
 
 type customError struct {

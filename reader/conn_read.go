@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/docker/go-units"
-	contextutil "github.com/projectdiscovery/utils/context"
-	"github.com/projectdiscovery/utils/errkit"
+	contextutil "github.com/michael2to3/utils/context"
+	"github.com/michael2to3/utils/errkit"
 )
 
 var (

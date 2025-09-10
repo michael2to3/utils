@@ -1,7 +1,7 @@
 package process
 
 import (
-	stringsutil "github.com/projectdiscovery/utils/strings"
+	stringsutil "github.com/michael2to3/utils/strings"
 	ps "github.com/shirou/gopsutil/v3/process"
 )
 

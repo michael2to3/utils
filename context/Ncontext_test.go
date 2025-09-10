@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	contextutil "github.com/projectdiscovery/utils/context"
+	contextutil "github.com/michael2to3/utils/context"
 )
 
 func TestExecFuncWithTwoReturns(t *testing.T) {

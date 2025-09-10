@@ -5,9 +5,9 @@ import (
 	"runtime"
 
 	"github.com/projectdiscovery/fdmax"
-	iputil "github.com/projectdiscovery/utils/ip"
-	permissionutil "github.com/projectdiscovery/utils/permission"
-	router "github.com/projectdiscovery/utils/routing"
+	iputil "github.com/michael2to3/utils/ip"
+	permissionutil "github.com/michael2to3/utils/permission"
+	router "github.com/michael2to3/utils/routing"
 )
 
 type EnvironmentInfo struct {

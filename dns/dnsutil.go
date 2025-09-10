@@ -1,7 +1,7 @@
 package dnsutil
 
 import (
-	stringsutil "github.com/projectdiscovery/utils/strings"
+	stringsutil "github.com/michael2to3/utils/strings"
 	"github.com/weppos/publicsuffix-go/publicsuffix"
 )
 

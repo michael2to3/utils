@@ -1,7 +1,7 @@
 package {{.PackageName}}
 
 import (
-    "github.com/projectdiscovery/utils/memoize"
+    "github.com/michael2to3/utils/memoize"
     
     {{range .Imports}}
         {{.Name}} {{.Path}}
